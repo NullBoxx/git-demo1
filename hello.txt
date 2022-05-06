@@ -14,7 +14,7 @@ hello git!
 hello git!
 <<<<<<< HEAD
 hello git! master test
-=======
+======= 牛逼
 hello git!
 >>>>>>> hot-fix
 111111111111111111111111
